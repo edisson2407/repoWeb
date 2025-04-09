@@ -2,8 +2,6 @@
 
 My name is Edisson Chamba
 
-Id: 1950001733
-
 Age: 23
 
 Phone: +593962733227
